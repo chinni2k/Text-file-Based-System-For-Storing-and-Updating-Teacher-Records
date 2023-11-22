@@ -1,0 +1,14 @@
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\bin\Debug\net7.0\Storing and Updating Teacher Records.exe
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\bin\Debug\net7.0\Storing and Updating Teacher Records.deps.json
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\bin\Debug\net7.0\Storing and Updating Teacher Records.runtimeconfig.json
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\bin\Debug\net7.0\Storing and Updating Teacher Records.dll
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\bin\Debug\net7.0\Storing and Updating Teacher Records.pdb
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.AssemblyInfoInputs.cache
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.AssemblyInfo.cs
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.csproj.CoreCompileInputs.cache
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.dll
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\refint\Storing and Updating Teacher Records.dll
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.pdb
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.genruntimeconfig.cache
+C:\Users\22575\source\repos\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\ref\Storing and Updating Teacher Records.dll
